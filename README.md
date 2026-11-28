@@ -1,3 +1,10 @@
+<!-- PAI-SG-LINKS:BEGIN -->
+## Project Links
+
+- [Project Portal](https://statera-library.github.io/#repo-03_vol_05_mobile_manipulator_projects_and_development_manual)
+- [Statera Library Portal](https://statera-library.github.io/)
+<!-- PAI-SG-LINKS:END -->
+
 # Statera Working Group — Physical AI Knowledge Initiative
 
 > **Repository Status: Manuscript Upload in Progress**  
